@@ -138,7 +138,12 @@
                 "d2.8xlarge",
                 "i2.2xlarge",
                 "i2.4xlarge",
-                "i2.8xlarge"
+                "i2.8xlarge",
+                "m5.large",
+                "m5.xlarge",
+                "m5.2xlarge",
+                "m5.4xlarge",
+                "m5.12xlarge"
                 ],
             "Default" : "r3.xlarge",
             "Type" : "String"
